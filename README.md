@@ -1,6 +1,8 @@
 # Azure Data Factory - Mapping Data Flow (Mini Project)
 
-![Azure Data Flow Diagram](Screenshot%202025-04-12%20234930.png)
+<p align="center">
+  <img src="img/1.png" alt="Azure Data Flow Diagram" height="220" width="700"/>
+</p>
 
 ## 💡 Objective
 
